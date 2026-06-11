@@ -6,7 +6,7 @@ Second Sight FC is an explainable pre-match AI companion built for the IBM Skill
 
 This project is focused on **explainability, trust, and fan understanding**. It is not a pure match prediction engine.
 
-Demo video: **Coming soon**
+Demo video: **https://youtu.be/hPihf5D6y5U**
 
 ---
 
@@ -194,4 +194,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 Created by Zac for the IBM SkillsBuild AI Builders June Challenge.
 
 Feedback is welcome through GitHub once the public repository is published.
+
+
 
